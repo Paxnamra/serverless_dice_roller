@@ -1,6 +1,6 @@
 
-To pretend workflow with tasks based on business requirements I've made up:
-[Project's kind of kanban board](https://github.com/Paxnamra/serverless_dice_roller/projects/1)<br/>
+To pretend workflow with tasks/stories based on made up business requirements:
+[Project's kanban board to stick to](https://github.com/Paxnamra/serverless_dice_roller/projects/1)<br/>
 It serves me as a review of what I've learned between October 2019 and February 2020.
 
 Serverless dice roller diagrams:
